@@ -1,0 +1,26 @@
+<annotation>
+  <folder>train</folder>
+  <filename>010ecbb5</filename>
+  <path>C:\Users\VuDinhPhong\kaggle-humble-whale\train\010ecbb5.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>563</width>
+    <height>322</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>fluke</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>31</xmin>
+      <ymin>31</ymin>
+      <xmax>533</xmax>
+      <ymax>267</ymax>
+    </bndbox>
+  </object>
+</annotation>
